@@ -1,0 +1,45 @@
+== CHANGE LOG ==
+= 1.0.7 =
+	- Fix - Navigation Changed to Pagination
+	- Fix - Slider issue fixed wile loading only one image
+	- Fix - date issue fixed on footer
+	- Update - Some CSS modified
+
+= 1.0.6 =
+	- Fix - Social Icons default value removed
+	- Fix - View Demo" and "View ThemeFreesia Themes fixed
+	- Fix - Unwanted footer functions removed
+	- Fix - Background Image Url Fixed
+	- Fix - Unwanted pixgraphy_font_url() removed
+	- Fix - Space removed after closing php tag
+	- Fix - slider issue fixed
+	- Tweak - navigation name changed to pagination
+
+= 1.0.5 =
+	- Fix - Site Description issue fixed
+
+= 1.0.4 =
+	- Fix - imagesLoaded.pkgd.js removed
+	- Fix - direct echo of html5.js removed and enqueued
+
+= 1.0.3 =
+	- Fix - Unwanted format translation removed
+	- Fix - Broken header image link fixed
+	- Update - pot file udpated
+	- Update - CSS Updated
+
+= 1.0.2 =
+	- Fix - unwanted Scripts removed
+	- Fix - Custom Slider removed with alternative Page Slider
+	- Update - CSS Updated
+	- Update - pot file updated
+	- Tweak - Minor js modified
+	- Tweak - unwanted Settings options removed via customizer
+	- Tweak - Image folder and license of image removed
+
+= 1.0.1 =
+	- Fix - Major fix on all files
+	- Update - Major Update on all files.
+
+= 1.0 =
+	- Initial Release
